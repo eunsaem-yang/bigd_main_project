@@ -1,0 +1,7 @@
+requests
+python-dotenv
+pandas
+matplotlib
+holidays>=0.50
+streamlit
+libsql-client
